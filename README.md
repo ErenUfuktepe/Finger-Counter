@@ -20,4 +20,10 @@
   - Used a Convex Hull to draw a polygon around the hand.
   - Calculate the center of the hand against the angle of outer points to infer finder count.
  
+ # Screenshots
  
+ <img src="img/0.png" width="400" height="400">
+
+<img src="img/2.png" width="400" height="400">
+
+<img src="img/5.png" width="400" height="400">
